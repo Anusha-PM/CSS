@@ -1,0 +1,7 @@
+div{
+    background-color: blue;
+    opacity: 0;
+}
+#opacity{
+    background-color: rgba(0,255,0,0);
+}
