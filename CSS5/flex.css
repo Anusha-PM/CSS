@@ -1,0 +1,14 @@
+#container  {
+    height: 200px;
+    width: 90%;
+    margin: 10px auto;
+    border: 2px solid black;
+      display: flex;   
+       flex-direction: row-reverse;  
+
+}
+#container div {
+    height: 200px;
+    width: 50%;
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+#container  {
+    height: 300px;
+    width: 90%;
+    margin: 10px auto;
+    border: 2px solid black;
+      display: flex;   
+       flex-direction: column; 
+        /* justify-content: flex-start ;  */ 
+       /* flex-wrap: wrap; */
+       /* align-content:flex-start; */
+       align-items: stretch;
+
+}
+#container div {
+    height: 50px; 
+    /* width: 150px; */
+    text-align: center;
+}
+/* #unique{
+    flex-basis: 150px;
+    flex-shrink: 2;
+}
+#blue{
+    flex-shrink: 3;
+} */
