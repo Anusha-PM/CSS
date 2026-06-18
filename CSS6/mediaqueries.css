@@ -1,0 +1,19 @@
+h1{
+    background-color:pink;
+    height:100px; 
+    border:2px solid black;
+
+}
+@media(min-width:200px) and (max-width:300px){
+        h1{
+            background-color: red;
+        }
+    }
+
+@media(orientation: portrait){
+    h1{
+        border-radius: 50%;
+        background-color: magenta;
+    }
+}
+   
